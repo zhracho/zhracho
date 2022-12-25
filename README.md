@@ -6,14 +6,13 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 
-### :mailbox: You can reach me with the links below:
+### Connect With Me!
 
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zhracho@verizon.net)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zacharyhracho/)
+[<img align="left" alt="Icons" width='40px' src="https://skillicons.dev/icons?i=linkedin" />][linkedin]
 
 ### Things I've Worked With:
 
-[![My Skills](https://skillicons.dev/icons?i=java,py,r,cpp,mysql,sqlite,vscode,visualstudio,selenium)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,r,cpp,mysql,sqlite,vscode,visualstudio,selenium,github,git)](https://skillicons.dev)
 
 
 ---
@@ -34,3 +33,4 @@
 <br/>
 
 ---
+[linkedin]:https://www.linkedin.com/in/zacharyhracho/
