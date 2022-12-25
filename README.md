@@ -15,7 +15,7 @@
 
 ### Things I've Worked With:
 
-[![My Skills](https://skillicons.dev/icons?i=java,py,r,cpp,mysql,sqlite,vscode,visualstudio,selenium,github,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,r,cpp,mysql,sqlite,postgresql,vscode,visualstudio,selenium,github,git)](https://skillicons.dev)
 
 ---
 
