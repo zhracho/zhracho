@@ -1,19 +1,21 @@
 ### Hi there 👋 I'm Zach!
 
 - 🎓 Second Year Data Science Student at the University of Florida
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🌱 I’m currently learning Programming with Data in R, Computational Math, and Computational Linear Algebra
+- Please go ahead and take a look at some of the projects I have worked on!
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zhracho" alt="zhracho" /> </p>
+
 
 ### Connect With Me!
 
 [<img align="left" alt="Icons" width='40px' src="https://skillicons.dev/icons?i=linkedin" />][linkedin]
+<br></br>
 
 ### Things I've Worked With:
 
 [![My Skills](https://skillicons.dev/icons?i=java,py,r,cpp,mysql,sqlite,vscode,visualstudio,selenium,github,git)](https://skillicons.dev)
-
 
 ---
 
